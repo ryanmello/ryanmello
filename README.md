@@ -4,7 +4,7 @@
 Software Engineer
 -----------------
 
-Creative. Ambitious. Persistent.
+<!-- Creative. Ambitious. Persistent. -->
 
 <!-- * 🌍  I'm based in Sacramento, CA
 * 🚀  I'm currently working on [Buzly Client-End Dashboard](http://www.buzly.io/)
